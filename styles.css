@@ -23,7 +23,7 @@ body {
 /* Header styling */
 header {
     text-align: center;
-    background-color: #117a65;
+    background-color: #555555;
     color: white;
     padding: 48px 16px;
     border-radius: 8px;
@@ -59,7 +59,7 @@ section {
 }
 
 section h2 {
-    color: #117a65;
+    color: #555555;
     margin-bottom: 24px;
     font-size: 1.875rem;
     font-weight: 600;
@@ -75,7 +75,7 @@ section p {
     margin-bottom: 24px;
     padding: 16px;
     background-color: #f9fafb;
-    border-left: 4px solid #1abc9c;
+    border-left: 4px solid #999999;
     border-radius: 4px;
     display: flex;
     align-items: flex-start;
@@ -89,7 +89,7 @@ section p {
 .pillar h3 {
     font-size: 1.5rem;
     font-weight: 500;
-    color: #117a65;
+    color: #555555;
     margin-bottom: 8px;
 }
 
@@ -110,17 +110,17 @@ ul li {
 }
 
 ul a {
-    color: #117a65;
+    color: #555555;
     text-decoration: underline;
 }
 
 ul a:hover {
-    color: #0e5e44;
+    color: #333333;
 }
 
 /* Footer */
 footer {
-    background-color: #1e3a8a;
+    background-color: #444444;
     color: white;
     text-align: center;
     padding: 24px 16px;
@@ -136,7 +136,7 @@ footer p {
 
 /* Button */
 button {
-    background-color: #1abc9c;
+    background-color: #888888;
     color: white;
     padding: 10px 20px;
     border: none;
@@ -147,7 +147,7 @@ button {
 }
 
 button:hover {
-    background-color: #16a085;
+    background-color: #777777;
 }
 
 
@@ -160,7 +160,7 @@ section p {
     margin-bottom: 20px;
     padding: 15px;
     background-color: #ecf0f1;
-    border-left: 5px solid #1abc9c;
+    border-left: 5px solid #999999;
     border-radius: 4px;
 }
 
@@ -174,7 +174,7 @@ section p {
 footer {
     text-align: center;
     padding: 20px;
-    background-color: #114D36;
+    background-color: #444444;
     color: white;
     border-radius: 8px;
 }

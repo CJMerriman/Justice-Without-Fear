@@ -1,4 +1,4 @@
-Justice Without Fear: Restoring Rights, Supporting Survivors
+# Justice Without Fear: Restoring Rights, Supporting Survivors
 
 Justice Without Fear is a non-profit organization dedicated to transparency, accountability, and the restoration of dignity for those impacted by police brutality and wrongful use-of-force. We believe that no citizen should feel intimidated by the systems meant to protect them, and no family should have to navigate the aftermath of a tragedy alone.
 

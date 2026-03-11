@@ -23,7 +23,7 @@ body {
 /* Header styling */
 header {
     text-align: center;
-    background-color: #555555;
+    background-color: #008080; /* teal header */
     color: white;
     padding: 48px 16px;
     border-radius: 8px;
@@ -50,7 +50,7 @@ header p {
 
 /* Section styling */
 section {
-    background-color: white;
+    background-color: #e0f7f7; /* light teal background for sections */
     padding: 32px;
     margin: 32px auto 0;
     border-radius: 8px;
@@ -59,7 +59,7 @@ section {
 }
 
 section h2 {
-    color: #555555;
+    color: #008080; /* teal headings */
     margin-bottom: 24px;
     font-size: 1.875rem;
     font-weight: 600;
@@ -75,7 +75,7 @@ section p {
     margin-bottom: 24px;
     padding: 16px;
     background-color: #f9fafb;
-    border-left: 4px solid #999999;
+    border-left: 4px solid #cccccc;
     border-radius: 4px;
     display: flex;
     align-items: flex-start;
@@ -89,7 +89,7 @@ section p {
 .pillar h3 {
     font-size: 1.5rem;
     font-weight: 500;
-    color: #555555;
+    color: #008080;
     margin-bottom: 8px;
 }
 
@@ -110,12 +110,12 @@ ul li {
 }
 
 ul a {
-    color: #555555;
+    color: #008080;
     text-decoration: underline;
 }
 
 ul a:hover {
-    color: #333333;
+    color: #005757;
 }
 
 /* Footer */
@@ -136,7 +136,7 @@ footer p {
 
 /* Button */
 button {
-    background-color: #888888;
+    background-color: #008080;
     color: white;
     padding: 10px 20px;
     border: none;
@@ -160,7 +160,7 @@ section p {
     margin-bottom: 20px;
     padding: 15px;
     background-color: #ecf0f1;
-    border-left: 5px solid #999999;
+    border-left: 5px solid #cccccc;
     border-radius: 4px;
 }
 
@@ -189,7 +189,7 @@ footer {
 
 #pillars .pillar-card {
     flex: 1 1 250px;
-    background-color: #f9fafb;
+    background-color: #ccfbf1; /* pale teal for cards */
     padding: 20px;
     border-radius: 8px;
     text-align: center;
